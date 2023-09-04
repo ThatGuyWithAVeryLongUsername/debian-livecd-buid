@@ -1,0 +1,7 @@
+{
+  "arch":"amd64",
+  "variant":"minbase",
+  "system":"bookworm",
+  "mirror":"http://ftp.ru.debian.org/debian/",
+  "packages": ["nginx", "postgresql", "vim", "ifupdown"] 
+}
